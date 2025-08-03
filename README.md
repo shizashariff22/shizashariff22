@@ -22,3 +22,9 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shizashariff22&show_icons=true&locale=en&layout=compact" alt="shizashariff22" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shizashariff22&" alt="shizashariff22" /></p>
+
+
+📬 Dear recruiter,  
+I swear I’ve been working — this snake just ate the evidence.
+
+<img src="https://raw.githubusercontent.com/shizashariff22/shizashariff22/output/snake.svg" width = 1500 alt="Snake animation" />
