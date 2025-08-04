@@ -12,8 +12,14 @@
 
 - 💬 Ask me about **React, Node, MongoDB, Express**
 
-- 📫 How to reach me **shizashariff@gmail.com**
-
+- 📫 How to reach me **shizashariff0922@gmail.com**
+  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/shiza-shariff" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -23,8 +29,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shizashariff22&" alt="shizashariff22" /></p>
 
-
 📬 Dear recruiter,  
-I swear I’ve been working — this snake just ate the evidence.
+I swear I’ve been working but sadly, this snake just ate the evidence.  
+<img src="https://raw.githubusercontent.com/shizashariff22/shizashariff22/output/snake.svg" width="1500" alt="Snake animation" />
 
-<img src="https://raw.githubusercontent.com/shizashariff22/shizashariff22/output/snake.svg" width = 1500 alt="Snake animation" />
